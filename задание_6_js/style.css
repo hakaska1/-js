@@ -1,0 +1,128 @@
+*{
+	margin: 0vw;
+	padding: 0vw;
+}
+
+body{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	padding: auto;
+	background-color: #303030;
+
+}
+header{
+	width: 50%;
+	height: 5vw;
+	background-color:#cacaca ;
+	margin: auto;
+	margin-top: 1vw;
+	padding: auto;
+	text-align: center;
+	align-content: center;
+	font-size: 3vw;
+	border-radius: 4vw;
+}
+main{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	padding: auto;
+	margin-top: 3vw;
+	align-content: center;
+}
+.container_1,.container_2,.container_3{
+	width: 100%;
+	height: auto;
+	align-content: center;
+	text-align: center;
+	display: flex;
+	border-bottom: 0.3vw solid black;
+}
+.block_1,.block_1_right{
+	width: 33%;
+	height: 20vw;
+	text-align: center;
+	padding-left: 0.5vw;
+	border-right: 0.3vw solid black;
+}
+.block_1_right{
+	border-right: none;
+}
+p{
+	font-size: 2vw;
+	color: white;
+	margin-top:0.3vw;
+	margin-bottom:1vw ;
+}
+.p_calikulator{
+	font-size: 1.5vw;
+}
+.div_section_block{
+	float: left;
+	width: 100%;
+}
+.unput_text_1,.unput_text_1_block_6,.unput_text_1_block_6_calikulator,.unput_text_1_rasdelitel{
+	font-size: 2vw;
+	border: 0.3vw solid #c3c3c3;
+}
+.unput_button_1,.unput_button_1_block_6,.unput_button_1_calikulator,.unput_button_1_calikulator_0{
+	font-size: 2vw;
+	margin-left:0.5vw ;
+	border: 0.3vw solid #c3c3c3;
+	margin: auto;
+	padding: auto;
+}
+.div_result_1,.div_result_2{
+	width: 90%;
+	font-size: 2.5vw;
+	margin: 1.5vw 0vw 0vw 1vw;
+	color: white;
+	text-align: left;
+}
+.div_char,.div_namber,.div_sumbol{
+	width: 100%;
+	height: auto;
+	border-bottom: 0.1vw solid white;
+}
+.unput_text_1_block_6{
+	width: 90%;
+	margin-bottom: 0.5vw;
+}
+.unput_button_1_block_6{
+	width: 45.5%;
+	font-size:0.7vw;
+	height: 3vw;
+}
+.unput_text_1_block_6_calikulator{
+	width: 59.8%;
+	padding: 0vw;
+	margin: 0vw;
+}
+.unput_button_1_calikulator{
+	width: 20%;
+	height: 3vw;
+}
+.unput_button_1_calikulator_0{
+	width: 40.9%;
+	height: 3vw;
+}
+.div_button_calikulator{
+	float: left;
+	width: 100%;
+}
+.div_index_calikulator_1,.div_index_calikulator_2,.div_index_calikulator_3,.div_index_calikulator_4{
+	display: block;
+	width: 100%;
+	margin: 0vw;
+	padding: 0vw;
+}
+.unput_text_1_rasdelitel{
+	float: left;
+}
+.laber{
+	color: white;
+	margin-top: 0.7vw;
+	font-size: 1.2vw;
+}
+
